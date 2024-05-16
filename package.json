@@ -16,5 +16,12 @@
     "chalk": "^4.0.0",
     "cli-spinners": "^2.0.0",
     "minimist": "^1.2.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xiaoGe-f/startdist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xiaoGe-f/startdist/issues"
   }
 }
